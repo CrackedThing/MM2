@@ -7,7 +7,7 @@
 - 🎭 **More Features** – And much more!  
 
 ## 📥 Download & Usage   
-1. Open your **Roblox Executor** (Synapse X, KRNL, RC7, etc.)  
+1. Open your **Roblox Executor** (Solara, Xeno, RC7, etc.)  
 2. Inject and execute the script  
 3. Enjoy dominating MM2!  
 
